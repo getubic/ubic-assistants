@@ -68,7 +68,8 @@
           ]
         },
         "commerce": false,
-        "commerce_description": "This plugin accesses features of an existing Ubic account. It does not sell subscriptions, process payments or promote upgrades."
+        "commerce_description": "This plugin accesses features of an existing Ubic account. It does not sell subscriptions, process payments or promote upgrades.",
+        "demo_recording_url": "https://youtu.be/zn37ToSasIY"
       },
       "publication": {
         "release_notes": "Initial read-only release: delegated workspace access to call results, prepared sessions, tasks and selected transcripts. No outbound calling or messaging tools.",
@@ -81,7 +82,7 @@
       },
       "interface": {
         "displayName": "Ubic",
-        "shortDescription": "Read call results and follow-up tasks",
+        "shortDescription": "Call results and follow-up",
         "longDescription": "Ubic is a calling platform for sales teams. Connect an existing Ubic account to read the call activity, qualification results, prepared sessions, follow-up tasks and selected transcripts available to you. Choose a workspace and approve the requested permissions during sign-in. Access follows your current rights in Ubic. This plugin is read-only: it cannot place calls, send SMS, change CRM records or manage subscriptions.",
         "developerName": "Ubic",
         "category": "Productivity",

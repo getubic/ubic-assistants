@@ -1,7 +1,7 @@
 # Ubic assistant plugin
 
-Preview: the server rollout and directory submissions are in progress. This
-package is public documentation, not confirmation that a directory listing is live.
+The remote server is available. The Claude directory submission is in review;
+the OpenAI submission is being prepared. No public directory listing is confirmed.
 
 Ubic is a calling platform for sales teams. This package connects an existing
 Ubic account to an assistant for read-only access to the activity and follow-up
@@ -57,3 +57,5 @@ The release ZIP is built from an explicit list of public files. It contains the
 platform manifests, remote MCP server URL, usage skill and icon. Review
 credentials and private review notes are entered separately in the publisher
 portals; they must never be added to this repository or to a release ZIP.
+
+Reviewer walkthrough (fictional data only): https://youtu.be/zn37ToSasIY
