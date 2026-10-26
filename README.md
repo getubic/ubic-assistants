@@ -1,7 +1,7 @@
 # Ubic assistant plugin
 
-The remote server is available. The Claude directory submission is in review;
-the OpenAI submission is being prepared. No public directory listing is confirmed.
+The remote server is available. The Claude and OpenAI directory submissions are
+in review. No public directory listing is confirmed.
 
 Ubic is a calling platform for sales teams. This package connects an existing
 Ubic account to an assistant for read-only access to the activity and follow-up
